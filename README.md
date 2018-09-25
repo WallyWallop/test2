@@ -9,6 +9,7 @@ using UnityEngine.SceneManagement;
 public class MainMenuScript : MonoBehaviour 
 
 {
+
 	public void OnClickMenu()
 	
 	{
